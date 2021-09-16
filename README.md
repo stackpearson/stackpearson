@@ -17,10 +17,6 @@
 
 <br />
 
-<details>
-<summary>Github Stats</summary>
-    <img align="left" alt="stackpearson's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stackpearson&show_icons=true&hide_border=true" />
-</details>
 
 [website]: https://sawyer-pearson.com
 [linkedin]: https://www.linkedin.com/in/sawyer-pearson
